@@ -42,8 +42,5 @@ database().then(() => {
   app.listen(port, () => console.log(`API rodando na porta: ${port}`))
 })
 
-function teste(){
-  
-}
 
 //app.listen(port, () => console.log(`API rodando na porta: ${port}`))
